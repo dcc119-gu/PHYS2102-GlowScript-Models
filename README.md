@@ -1,6 +1,6 @@
 # PHYS2102-GlowScript-Models
 
-Compilation of projects from computational modeling for PHYS2102: Electromagnetic Phenomena. Descriptions of each lab are as follows: <br />
+Compilation of projects from computational modeling for PHYS2102: Electromagnetic Phenomena (January-May 2026). Descriptions of each lab are as follows: <br />
 1. Calculated and visualized electric field from single electron at 12 observation points. <br />
 2. Calculated and visualized electric field due to "real" dipole and compared to calculation from equation of approximation. <br />
 3. Calculated and visualized electric field due to charged rod at several observation points varying in distance and angle from the rod. <br />
