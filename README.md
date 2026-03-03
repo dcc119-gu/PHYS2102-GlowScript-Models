@@ -1,4 +1,4 @@
-# PHYS2101-GlowScript-Models
+# PHYS2102-GlowScript-Models
 
 Compilation of projects from computational modeling for PHYS2102: Electromagnetic Phenomena. Descriptions of each lab are as follows: <br />
 1. Calculated and visualized electric field from single electron at 12 observation points. <br />
